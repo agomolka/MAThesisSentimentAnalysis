@@ -1,6 +1,7 @@
 
 # Byte-compiled / optimized / DLL files
 data/
+si650winter11/
 __pycache__/
 *.py[cod]
 *$py.class
